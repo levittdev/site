@@ -432,6 +432,11 @@ blockquote {
   padding-left: 20px;
 }
 
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
 .primary-button {
   display: -webkit-box;
   display: -webkit-flex;
